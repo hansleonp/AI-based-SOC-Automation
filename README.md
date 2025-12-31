@@ -70,6 +70,9 @@ Empfohlen:
 
 ## 4) Splunk Enterprise Setup
 
+<img width="1923" height="963" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/3b0483f9-be66-4d37-bc04-b82c74a783cd" />
+
+
 ### 4.1 Splunk installieren
 Splunk Enterprise von der offiziellen Website herunterladen.
 
@@ -185,6 +188,8 @@ index="xyz-projekt" XYZ_TEST
 ---
 
 ## 6) Splunk Alert erstellen (Test-Brute-Force)
+<img width="1920" height="581" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/bfabe875-c166-46fc-b780-975fe6bde492" />
+
 
 Beispiel Suche (failed logins):
 
@@ -265,6 +270,10 @@ http://xxx.xxx.xxx.xxx:5678
 
 ## 8) n8n Workflow bauen (Webhook → OpenAI → Slack)
 
+<img width="1918" height="962" alt="Pasted Graphic 4" src="https://github.com/user-attachments/assets/ad284d88-afa7-4dc3-96cb-40f57baa314e" />
+<img width="1895" height="935" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/33d8337b-4c37-40ce-a911-93fa07ad1f7f" />
+
+
 ### 8.1 Webhook Node
 
 * Node: **Webhook**
@@ -329,6 +338,8 @@ Alert Details:
 ---
 
 ## 10) Slack Integration
+<img width="1913" height="901" alt="Pasted Graphic 3" src="https://github.com/user-attachments/assets/650b0ce7-28fd-43a1-acaf-3c26ab772927" />
+
 
 Du brauchst einen Slack Bot Token.
 
